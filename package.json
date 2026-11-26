@@ -1,0 +1,10 @@
+{
+  "name": "dz-chat-auth",
+  "version": "1.0.0",
+  "scripts": { "start": "node server.js" },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.0",
+    "cors": "^2.8.5",
+    "express": "^4.21.0"
+  }
+}
